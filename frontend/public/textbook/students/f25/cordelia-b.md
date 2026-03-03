@@ -23,3 +23,20 @@ You may see my cat in the background; his name is Carmine and he is a sweet but 
   />
 
 </div>
+
+## Question 0 Video
+### How might a color be encoded numerically?
+
+{{YouTube:https://youtu.be/iT5Ewk8r1OE}}
+
+## Question 0 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q0-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 0 Diagram"
+  />
+
+</div>
