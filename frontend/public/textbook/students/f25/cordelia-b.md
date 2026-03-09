@@ -227,3 +227,54 @@ You may see my cat in the background; his name is Carmine and he is a sweet but 
   />
 
 </div>
+
+# Question 12 Video
+### List 5 common HTML tags and explain what they  do.
+
+{{YouTube:https://youtu.be/pVpt1XPXYgE}}
+
+## Question 12 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q12-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 12 Diagram"
+  />
+
+</div>
+
+# Question 13 Video
+### Name three web applications you have used and explain what make them useful.
+
+{{YouTube:https://youtu.be/0w_eKrFPpA0}}
+
+## Question 13 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q13-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 13 Diagram"
+  />
+
+</div>
+
+# Question 14 Video
+### Define basic database terminology: records, rows, columns, and tables.
+
+{{YouTube:https://youtu.be/Yzra1OZKFKU}}
+
+## Question 14 Diagram
+
+<div style="text-align:center; margin-top:20px;">
+
+  <img
+    src="/textbook/students/w26/cordelia-b/q14-diagram.png"
+    style="max-width:1000px; width: 100%; height:auto; margin-bottom:1em;"
+    alt="Question 14 Diagram"
+  />
+
+</div>

@@ -1,5 +1,6 @@
 - [Ben Marshall](/cis-110/#/textbook/students/f25/Ben-Marshall)
 - [Bryson Downing](/cis-110/#/textbook/students/f25/Bryson-Downing)
+- [Cordelia Brown](/cis-110/#/textbook/students/f25/cordelia-b)
 - [Cynthia Husky Gould](/cis-110/#/textbook/students/f25/Cynthia-HuskeyGould-Student)
 - [Emma](/cis-110/#/textbook/students/f25/emma-student)
 - [Ethan Cam](/cis-110/#/textbook/students/f25/ethan-cam)
